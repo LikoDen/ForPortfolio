@@ -1,0 +1,18 @@
+{
+    "idSave": 260,
+    "isFirstSession": false,
+    "language": "en",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "cups": 111274,
+    "mainParam": 1637709,
+    "wins": 167,
+    "floors": 21,
+    "speed": 508
+}
